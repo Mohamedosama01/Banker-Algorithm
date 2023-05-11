@@ -14,5 +14,5 @@ it is allowed, the app puts the process in the safe side and adds the current al
 the new available of the resources.on the other hand, if the process requests an amount of resources more than the available,the process is 
 not allowed to take this amount and the app prints "NO AVAILABLE RESOURCES" message.
 
-
+                   
                                                        (SORRY IF THE GUI IS A BIT MESSY)
